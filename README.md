@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @PSYZANE, 
+- 👋 Hi, I’m @PSYZANE aka Aditya Budakoti, 
 - 👀 I’m interested in IT. 
-- 🌱 I’m currently learning JAVA. 
-- 🔎 I'm still confused about my future field. 
-- 😜 Please take care of me! 
+- 🌱 I’m currently learning C++,Python,Web development. 
+- 🔎 I'm still looking out for my future field. 
+- 😜 Please take care of me!
+-  Peace out✌😎
 
-<!---
-PSYZANE/PSYZANE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
